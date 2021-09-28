@@ -1,6 +1,6 @@
 # DFS_Maze_Solver
 
-The depth-first search algorithm written by Leto II Atreides on Youtube.
+Creating depth-first search algorithm.
 
-Link to the video:
+Inspired by:
 https://www.youtube.com/watch?v=zalhUp4ms6c
